@@ -1,5 +1,5 @@
-<module>
-  <gadget>
+<Module>
+  <Gadget>
     <![CDATA[
       <!DOCTYPE html>
       <html lang="en">
@@ -35,5 +35,5 @@
       </body>
       </html>
     ]]>
-  </gadget>
-</module>
+  </Gadget>
+</Module>
