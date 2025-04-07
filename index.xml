@@ -1,0 +1,134 @@
+<Module>
+  <ModulePrefs title="FREE TV SHOWS FOR YOU" description="Embedded YouTube Video Gadget"/>
+  <Content type="html">
+    <![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Free TV Shows for you! Watch your favorite series and enjoy free entertainment." />
+  <title>Free TV Shows for You</title>
+  <style>
+    @font-face {
+      font-family: 'Permanent Marker';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2) format('woff2');
+    }
+    body {
+      font-family: 'Permanent Marker', sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    h1 {
+      font-size: 3em;
+      margin-top: 20px;
+      color: #ff6347;
+    }
+    button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 10px;
+      border: none;
+      cursor: pointer;
+      font-size: 1.2em;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    .animated-heading-container {
+      margin-top: 30px;
+      font-size: 2.5em;
+      font-weight: bold;
+      color: #333;
+    }
+    .video-series-container iframe {
+      margin: 10px;
+      border-radius: 10px;
+      width: 90%;
+      height: 315px;
+      max-width: 560px;
+    }
+    iframe.ad-banner {
+      margin: 15px 0;
+      width: 975px;
+      height: 255px;
+      border: none;
+      border-radius: 10px;
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Free TV Shows For You!</h1>
+
+  <button onclick="window.open('mailto:cartermcclellanofficial08@gmail.com', '_blank')">Contact</button>
+  <button onclick="window.open('https://www.youtube.com/@thesaintoftvshows', '_blank')">GTSYCAMM YouTube</button>
+  <button onclick="window.open('https://www.youtube.com/@FREETVSHOWSFORYOU', '_blank')">FREE TV SHOWS FOR YOU YouTube</button>
+
+  <!-- Ad Banner -->
+  <iframe class="ad-banner" src="https://ninonews.co.uk/coyu.html" scrolling="no"></iframe>
+
+  <!-- Special Agent Oso -->
+  <div class="animated-heading-container">Special Agent Oso</div>
+  <div class="video-series-container">
+    <!-- Add all your YouTube playlist links here -->
+    <iframe src="https://www.youtube.com/embed/videoseries?si=thrN5HnMJHPGQh8g&amp;list=PLG8fdiQyubtq8IzmR-RGBcyQmKJWEWruA" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=6tpfmiU0nPwHf8AS&amp;list=PLG8fdiQyubtqPvMt8OCihFJMs3Fq-8kqq" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=W7PypZroTc0_W553&amp;list=PLG8fdiQyubtqIVXFVP3118AiA6zvt01t_" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=RYw6C4dcYrsIvXFT&amp;list=PLG8fdiQyubtr0oaXuvvlC6kDsVSfAYIBH" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=HsPJ_tuHFByUM5eC&amp;list=PLG8fdiQyubtpIz-yKmJhQFcQYXma7MgCT" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=DTi5kOWIaiKNTgDW&amp;list=PLG8fdiQyubtqB3vucPKO0qOHUwrZRL8e8" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=YJu1x9UXL--JhqOU&amp;list=PLG8fdiQyubtqXB6PHKPDsMs4sfC8RSR8X" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=eBcwdc1BcvfouAXK&amp;list=PLG8fdiQyubtoUAouLC1ZFrMIWYmt2_SxJ" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=IzbJ0dOg1Asqlwrc&amp;list=PLG8fdiQyubtrjP3TYoISa0c2Fj55n1_-O" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=9Wgkpl_NZGJtnYfj&amp;list=PLG8fdiQyubtrW8uYoHPS_JUz7uhlDXRIR" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=h5w2iFxICOeyfXxC&amp;list=PLG8fdiQyubtq7l811xtlvlUxgNtqtVdA2" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=t8zFSUV6rvwomntz&amp;list=PLG8fdiQyubtqPSOqsdmz8cHRtJGlNYWPm" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=B9k5BhQeuK5FiIDz&amp;list=PLG8fdiQyubtrL-QW_TZ12KwqzQB37tttg" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=IzvymIB955VfJjp_&amp;list=PLG8fdiQyubtraMLql-oXPKxRM8hde2I5k" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=PuTua5Vq6geuU4ht&amp;list=PLG8fdiQyubtqn_If5zfhaOhz6dqSvppqz" allowfullscreen></iframe>
+  </div>
+
+  <!-- The 7D -->
+  <div class="animated-heading-container">The 7D</div>
+  <div class="video-series-container">
+    <iframe src="https://www.youtube.com/embed/videoseries?si=WdFFNM3NOjXhu_Px&amp;list=PLG8fdiQyubtrjn_GUvyIMrJcUQ_OQ3ldd" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=kYdCBwiXAa820Zh3&amp;list=PLG8fdiQyubtr7V8R-UjOvLTT84zo4KFxK" allowfullscreen></iframe>
+  </div>
+
+  <!-- PJ Masks -->
+  <div class="animated-heading-container">PJ Masks</div>
+  <div class="video-series-container">
+    <iframe src="https://www.youtube.com/embed/videoseries?si=Elx5xrfTaGzVaRX2&amp;list=PLG8fdiQyubtrhs5kR-HW3pX4yslSw9Ab3" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/videoseries?si=9bOBILGAKiqucHJj&amp;list=PLG8fdiQyubtqS8Ss8AMH9ETRkeBfzqRJ8" allowfullscreen></iframe>
+  </div>
+
+  <!-- Movies -->
+  <div class="animated-heading-container">Movies</div>
+  <div class="video-series-container">
+    <iframe src="https://www.youtube.com/embed/videoseries?si=9mPI0VFGgTopiHY-&amp;list=PLG8fdiQyubtoEt9yHDl9PdPcD7dDEvNEF" allowfullscreen></iframe>
+  </div>
+
+  <!-- Handy Manny -->
+  <div class="animated-heading-container">Handy Manny</div>
+  <div class="video-series-container">
+    <iframe src="https://www.youtube.com/embed/videoseries?si=q7ZShFRi1BFALxuA&amp;list=PLG8fdiQyubtrYfoQA559r90LqKK2Qm6xM" allowfullscreen></iframe>
+  </div>
+
+  <!-- Glitch Report -->
+  <div class="animated-heading-container">Report Glitches and Bugs</div>
+  <p>Before submitting, please also include an image link to any glitch you've found.</p>
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfJAlPZgn5uuI7j4kjbjodDxfORabSAzRhg88juYL45CP7RqQ/viewform?embedded=true" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</body>
+</html>
+    ]]>
+  </Content>
+</Module>
